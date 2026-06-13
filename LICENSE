@@ -1,21 +1,42 @@
-MIT License
+# Özel Kullanım Lisansı - Berk432
 
-Copyright (c) 2026 berk432
+Telif Hakkı (c) 2025 Berk432
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. KOD ÇALMA YASAĞI
+Bu yazılımın kaynak kodunun **herhangi bir şekilde kopyalanması, çalınması, başka bir isimle yayınlanması veya başka bir projede kullanılması KESİNLİKLE YASAKTIR**. İzin alınmadan yapılan her türlü kopyalama, çalma veya yeniden yayınlama durumunda yasal işlem başlatılacaktır.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. KULLANIM SORUMLULUĞU
+Bu yazılım **"OLDUĞU GİBİ"** sunulmaktadır. Yazılımı indiren, kuran veya kullanan her kişi, bu yazılımı **NASIL KULLANACAĞINA KENDİSİ KARAR VERİR**. Yazılımın kullanımından doğan HER TÜRLÜ sonuçtan (hukuki, cezai, maddi, manevi vb.) yazılımı kullanan kişi **TEK BAŞINA SORUMLUDUR**.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 3. SORUMSUZLUK BİLDİRİMİ
+Yazılımın yapımcısı (Berk432) ve katkıda bulunanlar:
+- DDoS saldırıları
+- Yasadışı veri toplama
+- Hesap çalma
+- Spam gönderme
+- Herhangi bir yasa dışı aktivite
+- Üçüncü şahısların zarar görmesi
+
+gibi durumlardan **KESİNLİKLE SORUMLU DEĞİLDİR**. Bu tür kullanımlar tamamen kullanıcının kendi sorumluluğundadır.
+
+## 4. YASAL UYARI
+Bu yazılım **EĞİTİM VE TEST AMAÇLIDIR**. Başkalarının sistemlerine izinsiz müdahale etmek bulunduğunuz ülkenin yasalarına göre suç olabilir. Kullanıcı, kendi ülkesinin yasalarını öğrenmek ve bunlara uymakla yükümlüdür.
+
+## 5. İZİNSİZ TİCARİ KULLANIM YASAĞI
+Bu yazılımın veya türevlerinin, yapımcısının yazılı izni olmadan **ticari amaçla satılması, dağıtılması veya kiralanması yasaktır**.
+
+## 6. LİSANS İHLALİ
+Bu lisans şartlarını ihlal eden kişiler hakkında:
+- Telif hakkı ihlali davası açılabilir
+- Maddi ve manevi tazminat talebinde bulunulabilir
+- GitHub vb. platformlardan şikayet edilebilir
+
+---
+
+**Bu yazılımı indirerek, kopyalayarak veya kullanarak yukarıdaki tüm şartları KABUL ETMİŞ sayılırsınız.**
+
+📧 İletişim: brianmoser2146@gmail.com
+
+---
+
+**Yapımcı:** Berk432 | 🛡️
