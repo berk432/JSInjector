@@ -9,3 +9,5 @@ CustomTkinter ile yapılmış, Selenium kullanarak web sitelerine otomatik JavaS
 - Detaylı debug/hata takip alanı
 - Tarayıcı otomatik kapanmaz
 - Aynı tarayıcıyı tekrar kullanma
+
+## İNDİRMEK İÇİN GİTHUB RELEASES KULLANIN
