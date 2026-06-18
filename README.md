@@ -21,3 +21,4 @@ Bu program **virüs içermez**. Antivirüslerin algılamasının sebebi:
 - Selenium ile tarayıcı kontrol etmesi
 
 Güvenli olduğundan emin olmak için kaynak kodunu inceleyebilirsiniz.
+Eğer bizim uygulamamızdan virüs geldiyse bize dava açma hakkına sahipsiniz.
